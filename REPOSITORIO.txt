@@ -1,1 +1,4 @@
 Repositorio Camila 
+
+se comprendió que no es solo una herramienta para guardar archivos, sino que permite llevar un mejor 
+control de los cambios y trabajar de manera colaborativa.
